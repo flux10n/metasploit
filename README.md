@@ -10,7 +10,7 @@ Aims to create a backdoor or spy on an android phone.
 
   - After that give orders ```cd metasploit```
 
-  - Then we give chmod, example: ```chmod + x metasploit.sh```
+  - Then we give chmod, example: ```chmod +x metasploit.sh```
 
   - And finally enter the command ```./metasploit.sh```
 
